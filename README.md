@@ -33,8 +33,8 @@ Maxim is an Analog mixed signal semiconductor company focused on developing powe
 <ol>
 <li>Click the "Clone or Download" button and click "Download ZIP" above (from the main GITHUB repo page). After the download finishes, unzip the file to a directory of your choosing. All the files needed to run the board can be found in the Firmware and Software directories.</li>
 <li>You need to program the FTHR board with the Smart_E_Load_FM_rev2.MAX32630FTHR.bin file found in the Firmware directory.</li>
-<li>Please install by double-clicking the GUI using setup.exe located in the .\Software\Publish directory.</li>
+<li>Please install the GUI by double-clicking setup.exe located in the .\Software\Publish directory.</li>
 <li>For hardware setup, install the fan and 12 V adapter if you are working with high currents. If you are planning to work on low current applications, there is no need to install the fan.</li>
 <li>The complete procedure is mentioned in the design documents found on the MAXREFDES1213's page on Maxim's website.</li>
-<li>Fan connection: The J7 has three pins and the "Thermal Take" has four pins. When you connect the Fan make sure you connect the bottom three pins of the fan and leave the top one.</li>
+<li>Fan connection: The J7 has three pins and the "Thermal Take" has four pins. When you connect the fan make sure you connect the bottom three pins of the fan and leave the top one.</li>
 </ol>
