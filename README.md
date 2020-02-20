@@ -38,3 +38,7 @@ Maxim is an Analog mixed signal semiconductor company focused on developing powe
 <li>The complete procedure is mentioned in the design documents found on the MAXREFDES1213's page on Maxim's website.</li>
 <li>Fan connection: The J7 has three pins and the "Thermal Take" has four pins. When you connect the fan make sure you connect the bottom three pins of the fan and leave the top one.</li>
 </ol>
+<p>
+<b>Firmware Source</b>
+<p>
+Althouh the firmware binary can be found in this repository, the firmware source is available for download at this mbed repository:  <a href="https://os.mbed.com/teams/MaximIntegrated/code/Smart_E_Load_MAXREFDES1213/">https://os.mbed.com/teams/MaximIntegrated/code/Smart_E_Load_MAXREFDES1213/</a>.
