@@ -36,7 +36,7 @@ Maxim is an analog and mixed signal semiconductor company focused in part on dev
 <li>Please install the GUI by double-clicking setup.exe located in the .\Software\Publish directory.</li>
 <li>For hardware setup, install the fan and 12 V adapter if you are working with high currents. If you are planning to work on low current applications, there is no need to install the fan.</li>
 <li>The complete procedure is mentioned in the design documents found on the MAXREFDES1213's page on Maxim's website.</li>
-<li>Fan connection: The J7 has three pins and the "Thermal Take" has four pins. When you connect the fan make sure you connect the bottom three pins of the fan and leave the top one.</li>
+<li>Fan connection: The J7 has three pins and the "Thermaltake" fan has four pins. When you connect the fan make sure you connect the bottom three pins of the fan and leave the top one.</li>
 </ol>
 <p>
 <b>Firmware Source</b>
