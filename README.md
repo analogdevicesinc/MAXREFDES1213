@@ -1,5 +1,5 @@
 # MAXREFDES1213 -- Smart Electronic Load
-Maxim is an Analog mixed signal semiconductor company focused on developing power management products that include power converters (works with both high and low current) and PMIC’s (Mostly focused on low currents). A traditional tool to test these components would cost around $1000 for each unit and these units are heavy and usually powered by 110 Volts AC. The focus of this project is to develop a smart portable electronic load for testing these power management chips. The main features of this design are:
+Maxim is an analog and mixed signal semiconductor company focused in part on developing power management products that include power converters (both high and low current) and PMIC’s (mostly focused on low currents). A traditional tool to test these components would cost around $1000 for each unit and these units are heavy and usually powered by 110 Volts AC. The focus of this project is to develop a smart portable electronic load for testing these power management chips. The main features of this design are:
 <ul>
 <li>This design is USB powered.</li>
 <li>This design showcases the capability of PIXI (MAX11311) and the MAX32630FTHR board (microcontroller kit).</li>
@@ -41,4 +41,4 @@ Maxim is an Analog mixed signal semiconductor company focused on developing powe
 <p>
 <b>Firmware Source</b>
 <p>
-Althouh the firmware binary can be found in this repository, the firmware source is available for download at this mbed repository:  <a href="https://os.mbed.com/teams/MaximIntegrated/code/Smart_E_Load_MAXREFDES1213/">https://os.mbed.com/teams/MaximIntegrated/code/Smart_E_Load_MAXREFDES1213/</a>.
+Although the firmware binary can be found in this repository, the firmware source is available for download at this mbed repository:  <a href="https://os.mbed.com/teams/MaximIntegrated/code/Smart_E_Load_MAXREFDES1213/">https://os.mbed.com/teams/MaximIntegrated/code/Smart_E_Load_MAXREFDES1213/</a>.
