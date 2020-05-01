@@ -16,7 +16,7 @@ Maxim is an analog and mixed signal semiconductor company focused in part on dev
 <b>Contents:</b>
 <ul>
 <li>MAXREFDES1213 board</li>
-<li>MAX3263FTHR, and MAX32625PICO (Dapllink programmer)</li>
+<li>MAX32630FTHR, and MAX32625PICO (Dapllink programmer)</li>
 <li>Fan</li>
 <li>12V adapter</li>
 <li>USB cables</li>
